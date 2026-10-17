@@ -1,0 +1,16 @@
+{
+  "block.oxy_tech.copper_ore": "Copper Ore",
+  "block.oxy_tech.tin_ore": "Tin Ore",
+  "block.oxy_tech.lead_ore": "Lead Ore",
+  "block.oxy_tech.silver_ore": "Silver Ore",
+  "block.oxy_tech.platinum_ore": "Platinum Ore",
+  "block.oxy_tech.nickel_ore": "Nickel Ore",
+  "block.oxy_tech.mithril_ore": "Mithril Ore",
+  "block.oxy_tech.lithium_ore": "Lithium Ore",
+  "block.oxy_tech.uranium_ore": "Uranium Ore",
+  "block.oxy_tech.titanium_ore": "Titanium Ore",
+  "block.oxy_tech.chromium_ore": "Chromium Ore",
+  "block.oxy_tech.zinc_ore": "Zinc Ore",
+  "block.oxy_tech.aluminum_ore": "Aluminum Ore",
+  "block.oxy_tech.silicon_ore": "Silicon Ore"
+}

@@ -1,0 +1,16 @@
+{
+  "block.oxy_tech.copper_ore": "Медная руда",
+  "block.oxy_tech.tin_ore": "Оловянная руда",
+  "block.oxy_tech.lead_ore": "Свинцовая руда",
+  "block.oxy_tech.silver_ore": "Серебряная руда",
+  "block.oxy_tech.platinum_ore": "Платиновая руда",
+  "block.oxy_tech.nickel_ore": "Никелевая руда",
+  "block.oxy_tech.mithril_ore": "Мифриловая руда",
+  "block.oxy_tech.lithium_ore": "Литиевая руда",
+  "block.oxy_tech.uranium_ore": "Урановая руда",
+  "block.oxy_tech.titanium_ore": "Титановая руда",
+  "block.oxy_tech.chromium_ore": "Хромовая руда",
+  "block.oxy_tech.zinc_ore": "Цинковая руда",
+  "block.oxy_tech.aluminum_ore": "Алюминиевая руда",
+  "block.oxy_tech.silicon_ore": "Кремниевая руда"
+}

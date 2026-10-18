@@ -23,18 +23,45 @@ public class ModBlocks {
             registerBlock("copper_ore", () -> new Block(BlockBehaviour.Properties.of()
                     .strength(3f).requiresCorrectToolForDrops()));
 
+    public static final RegistryObject<Block> COPPER_BLOCK =
+            registerBlock("copper_block", () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(3f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> RAW_COPPER_ORE =
+            registerBlock("raw_copper_ore", () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(3f).requiresCorrectToolForDrops()));
+
     public static final RegistryObject<Block> TIN_ORE =
             registerBlock("tin_ore", () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(3f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> TIN_BLOCK =
+            registerBlock("tin_block", () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(3f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> RAW_TIN_ORE =
+            registerBlock("raw_tin_ore", () -> new Block(BlockBehaviour.Properties.of()
                     .strength(3f).requiresCorrectToolForDrops()));
 
     public static final RegistryObject<Block> ZINC_ORE =
             registerBlock("zinc_ore", () -> new Block(BlockBehaviour.Properties.of()
                     .strength(3f).requiresCorrectToolForDrops()));
 
+    public static final RegistryObject<Block> ZINC_BLOCK =
+            registerBlock("zinc_block", () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(3f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> RAW_ZINC_ORE =
+            registerBlock("raw_zinc_ore", () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(3f).requiresCorrectToolForDrops()));
+
     public static final RegistryObject<Block> SILICON_ORE =
             registerBlock("silicon_ore", () -> new Block(BlockBehaviour.Properties.of()
                     .strength(3f).requiresCorrectToolForDrops()));
 
+    public static final RegistryObject<Block> SILICON_block =
+            registerBlock("silicon_block", () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(3f).requiresCorrectToolForDrops()));
 
 
     public static final RegistryObject<Block> LEAD_ORE =

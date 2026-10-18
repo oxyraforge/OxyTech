@@ -1,5 +1,7 @@
 {
   "block.oxy_tech.copper_ore": "Медная руда",
+  "item.oxy_tech.raw_copper": "Рудная медь",
+  "item.oxy_tech.copper_ingot": "Медный слиток",
   "block.oxy_tech.tin_ore": "Оловянная руда",
   "block.oxy_tech.lead_ore": "Свинцовая руда",
   "block.oxy_tech.silver_ore": "Серебряная руда",

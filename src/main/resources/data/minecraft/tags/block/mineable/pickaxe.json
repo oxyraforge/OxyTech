@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "oxy_tech:copper_ore",
+    "oxy_tech:tin_ore",
+    "oxy_tech:lead_ore",
+    "oxy_tech:silver_ore",
+    "oxy_tech:platinum_ore",
+    "oxy_tech:nickel_ore",
+    "oxy_tech:mithril_ore",
+    "oxy_tech:lithium_ore",
+    "oxy_tech:uranium_ore",
+    "oxy_tech:titanium_ore",
+    "oxy_tech:chromium_ore",
+    "oxy_tech:zinc_ore",
+    "oxy_tech:aluminum_ore",
+    "oxy_tech:silicon_ore"
+  ]
+}

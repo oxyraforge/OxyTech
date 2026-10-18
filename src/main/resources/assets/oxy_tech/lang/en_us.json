@@ -1,5 +1,7 @@
 {
   "block.oxy_tech.copper_ore": "Copper Ore",
+  "item.oxy_tech.raw_copper": "Raw Copper",
+  "item.oxy_tech.copper_ingot": "Copper Ingot",
   "block.oxy_tech.tin_ore": "Tin Ore",
   "block.oxy_tech.lead_ore": "Lead Ore",
   "block.oxy_tech.silver_ore": "Silver Ore",

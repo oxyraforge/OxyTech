@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-    "oxy_tech:copper_ore"
+    "oxy_tech:copper_ore",
+    "oxy_tech:tin_ore",
+    "oxy_tech:zinc_ore",
+    "oxy_tech:silicon_ore"
   ]
 }

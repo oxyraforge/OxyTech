@@ -18,6 +18,21 @@ public class ModItems {
     public static final RegistryObject<Item> COPPER_INGOT = ITEMS.register("copper_ingot",
             () -> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> RAW_TIN = ITEMS.register("raw_tin",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> TIN_INGOT = ITEMS.register("tin_ingot",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> RAW_ZINC = ITEMS.register("raw_zinc",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> ZINC_INGOT = ITEMS.register("zinc_ingot",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> SILICON = ITEMS.register("silicon",
+            () -> new Item(new Item.Properties()));
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

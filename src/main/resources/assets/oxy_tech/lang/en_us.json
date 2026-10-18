@@ -3,6 +3,13 @@
   "item.oxy_tech.raw_copper": "Raw Copper",
   "item.oxy_tech.copper_ingot": "Copper Ingot",
   "block.oxy_tech.tin_ore": "Tin Ore",
+  "item.oxy_tech.raw_tin": "Raw Tin",
+  "item.oxy_tech.tin_ingot": "Tin Ingot",
+  "block.oxy_tech.zinc_ore": "Zinc Ore",
+  "item.oxy_tech.raw_zinc": "Raw Zinc",
+  "item.oxy_tech.zinc_ingot": "Zinc Ingot",
+  "block.oxy_tech.silicon_ore": "Silicon Ore",
+  "item.oxy_tech.silicon": "Silicon",
   "block.oxy_tech.lead_ore": "Lead Ore",
   "block.oxy_tech.silver_ore": "Silver Ore",
   "block.oxy_tech.platinum_ore": "Platinum Ore",
@@ -12,7 +19,5 @@
   "block.oxy_tech.uranium_ore": "Uranium Ore",
   "block.oxy_tech.titanium_ore": "Titanium Ore",
   "block.oxy_tech.chromium_ore": "Chromium Ore",
-  "block.oxy_tech.zinc_ore": "Zinc Ore",
-  "block.oxy_tech.aluminum_ore": "Aluminum Ore",
-  "block.oxy_tech.silicon_ore": "Silicon Ore"
+  "block.oxy_tech.aluminum_ore": "Aluminum Ore"
 }
